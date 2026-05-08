@@ -1,3 +1,11 @@
 __pycache__/
 *.pyc
 .env
+
+# Secrets & local config
+api_keys.txt
+user_pref.txt
+
+# Local data caches
+sector_prices.db
+*.db-journal
